@@ -11,7 +11,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 api_id = os.getenv('API_ID') 
 api_hash = os.getenv('API_HASH')
-bot_token = '1909716050:AAHSaFsuLzaXOK1OiBhVnqYHsczn7d6udDE'
+bot_token = '6606855259:AAH_VVTZKWrEvpTbrYcFF1KAw7CR7MMTwrY'
 bot = Client("bot_session", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 session = ''
 connector = ''
