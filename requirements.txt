@@ -4,3 +4,4 @@ APScheduler==3.10.1
 beautifulsoup4==4.8.2
 Pyrogram==2.0.35
 tgcrypto
+telethon==1.25.0
