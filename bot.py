@@ -86,7 +86,7 @@ async def reload_chapters(soup):
 @bot.on_message(filters.command('start'))
 async def answer(_, message):
     await bot.send_message(message.chat.id,
-                           f'Hello {message.from_user.username}, to search for an anime use the command /search.')
+                           f'Hello {message.from_user.username}, to search for an anime use the command /search. Do not specify the anime chapter number only the name EXAMPLE /search Bleach.')
 
 
 @bot.on_message(filters.command('search'))
