@@ -2,4 +2,4 @@ aiohttp
 APScheduler
 beautifulsoup4
 kurigram
-tgcrypto
+
