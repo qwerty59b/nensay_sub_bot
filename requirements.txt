@@ -1,5 +1,5 @@
 aiohttp
 APScheduler
 beautifulsoup4
-kurigram
+kurigram[fast]
 
