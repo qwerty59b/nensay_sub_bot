@@ -1,4 +1,4 @@
 aiohttp
 APScheduler
 beautifulsoup4
-kurigram[fast]==2.2.24
+kurigram[fast]
